@@ -99,6 +99,7 @@ Berikut merupakan settingan konfigurasi yang saya lakukan pada penginstallan ubu
 5. Install SSH agar dapat diakses secara remote
    ![ssh](https://user-images.githubusercontent.com/135587083/285240931-5e948ab7-5da9-4f96-9387-b3d92e75b414.png)
 6. Installasi
+
    ![install](https://user-images.githubusercontent.com/135587083/285240922-11b96d02-5ebb-4775-976c-8b9fd6dbb2fb.png)
 7. Akses secara remote pada komputer local
    ![access](https://user-images.githubusercontent.com/135587083/285240914-69b9c5ee-de4a-4c7a-99b3-5bfe383e0582.png)
