@@ -91,15 +91,16 @@ Berikut merupakan settingan konfigurasi yang saya lakukan pada penginstallan ubu
    ![local-ip](https://user-images.githubusercontent.com/135587083/285252427-dc960b51-847c-47ae-b8cf-d2ba0b528432.png)
    ![set](https://user-images.githubusercontent.com/135587083/285240956-241aa1eb-f18b-4a60-b7e0-185f92d953df.png)
    ![set](https://user-images.githubusercontent.com/135587083/285240953-0e746d0c-ce65-4339-9a11-0341e09c1149.png)
-4. Setting storage
+3. Setting storage
+
    ![storage](https://user-images.githubusercontent.com/135587083/285240936-a4d8614b-59a4-4ecf-bdea-bc9780efd133.png)
-6. Profile setup configuration
+4. Profile setup configuration
    ![profile](https://user-images.githubusercontent.com/135587083/285240934-670b0ffa-2f69-46ef-a231-43a294991207.png)
-7. Install SSH agar dapat diakses secara remote
+5. Install SSH agar dapat diakses secara remote
    ![ssh](https://user-images.githubusercontent.com/135587083/285240931-5e948ab7-5da9-4f96-9387-b3d92e75b414.png)
-8. Installasi
+6. Installasi
    ![install](https://user-images.githubusercontent.com/135587083/285240922-11b96d02-5ebb-4775-976c-8b9fd6dbb2fb.png)
-9. Akses secara remote pada komputer local
+7. Akses secara remote pada komputer local
    ![access](https://user-images.githubusercontent.com/135587083/285240914-69b9c5ee-de4a-4c7a-99b3-5bfe383e0582.png)
    kita dapat mengakses secara remote server kita dengan perintah`ssh user@ip address` dan masukkan password nya
 
