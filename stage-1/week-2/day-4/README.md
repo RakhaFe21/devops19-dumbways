@@ -181,8 +181,6 @@ Teks editor sangat penting dalam lingkungan sistem operasi Linux karena banyak t
 ## 2. manipulation teks (docs manipulation teks)
 Manipulasi teks adalah proses mengubah atau memanipulasi isi dari teks. Ini bisa melibatkan berbagai tindakan, seperti penggantian kata atau frase, pemotongan atau penambahan bagian tertentu, pengurutan ulang, atau transformasi teks dalam cara tertentu. Manipulasi teks sering kali dilakukan menggunakan perangkat lunak atau alat pengeditan teks, seperti teks editor.
 
-Manipulasi teks itu kayak main-main atau ubah-ubah tulisan. Jadi, bayangin jika punya satu paragraf atau kalimat, terus diganti beberapa kata atau hapus bagian-bagian tertentu. Nah, itu namanya manipulasi teks. Jadi, bisa saja diubah biar lebih panjang, lebih pendek, atau beda-beda isinya.
-
 - Docs manipulation teks
 
 1. Cat (Concatenate):
